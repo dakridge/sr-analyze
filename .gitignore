@@ -1,0 +1,4 @@
+venv/
+data.csv
+clean.csv
+.vscode/settings.json
